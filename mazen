@@ -1,1 +1,3 @@
-bdj
+name ="mazen"
+name2 ="magdy"
+print ("name +name2") 
